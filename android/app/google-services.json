@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "594283498220",
+    "project_id": "chalet-spot",
+    "storage_bucket": "chalet-spot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594283498220:android:7f78fe15dfb24d449bf3c9",
+        "android_client_info": {
+          "package_name": "com.example.chalet_spot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdue4F5-DUxnhAkvjhyATp23AvORs6rZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
